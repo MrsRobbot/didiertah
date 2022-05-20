@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Didier TAH
 #### I am Blockchain and Web Developer
-![I am Blockchain and Web Developer]([https://www.linkedin.com/in/bi-tah-didier-tah-580555b8/overlay/background-image/))
+![I am Blockchain and Web Developer]([https://www.linkedin.com/in/bi-tah-didier-tah-580555b8/overlay/background-image/])
 
  I'm passionate about the technology of storage and transmission of information without a control body, specialized in Blockchain
 
