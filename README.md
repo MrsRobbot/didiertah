@@ -1,14 +1,17 @@
 
-
 ### Hi there 👋, my name is Didier TAH
 #### I am Blockchain and Web Developer
-![I am Blockchain and Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Blockchain and Web Developer](https://www.linkedin.com/in/bi-tah-didier-tah-580555b8/overlay/background-image/)
 
  I'm passionate about the technology of storage and transmission of information without a control body, specialized in Blockchain
 
 Skills: VUE JS / REACT / JS / ANGULAR  / SOLIDITY /  NODE JS/ SANITY / REACT NATIVE / 
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 
