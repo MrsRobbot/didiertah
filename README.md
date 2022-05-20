@@ -1,5 +1,4 @@
-## Hi here 
-I'm Didier TAH from Côte d'Ivoire i'm passionate about the technology of storage and transmission of information without a control body, specialized in Blockchain .
+
 
 ### Hi there 👋, my name is Didier TAH
 #### I am Blockchain and Web Developer
