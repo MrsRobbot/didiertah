@@ -8,7 +8,7 @@
 
 Skills: VUE JS / REACT / JS / ANGULAR  / SOLIDITY /  NODE JS/ SANITY / REACT NATIVE / 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 🔭 
 
 
 
